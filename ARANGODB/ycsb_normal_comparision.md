@@ -6,19 +6,17 @@ TotalTime≈698.626 millisecondsTotalTime≈698.626 milliseconds<br>
 
 # INSERTION:
 					
-![image](https://github.com/deekshamacharya/hpe-project/assets/136496282/c22b69be-1524-4d5a-a3e5-c20071a7db6f)
-
-![ycsb_insertion](https://github.com/deekshamacharya/hpe-project/assets/136496282/cc20e3d6-73c4-4193-8238-9ec5f7fd18b8)
+![YCSB COMPARE ](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/c6921ea1-e1d8-480f-a6a6-e47466127fda)
 
 
+![YCSB COMPARE INSERT](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/445bd7ff-70f7-4d4c-b349-ac2db143d9f5)
 
 # UPDATION:
 
 
-![image](https://github.com/deekshamacharya/hpe-project/assets/136496282/75521a98-7f31-439c-ac89-64cb56522bd8)
-
-![image](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/94e879c3-34d7-41e4-af07-427e68c70f47)
 
 
+![YCSB COMPARE UPDATE](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/f3f5c208-7878-4b17-b47c-478d5f997d2c)
 
 
+![YCSB COMPARE UPDA](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/38a62ce5-777e-4585-832f-218831d4cb63)
