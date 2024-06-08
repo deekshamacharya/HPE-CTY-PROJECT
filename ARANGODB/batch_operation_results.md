@@ -1,28 +1,21 @@
 # FOR 10,000 TUPLE SIZE:
 
-
-![image](https://github.com/deekshamacharya/hpe-project/assets/136496282/0fb2712d-12f3-45c4-8c06-3c0f7144972a)
-
-![batch1000](https://github.com/deekshamacharya/hpe-project/assets/136496282/f82f2a2f-41d9-4cff-95c9-9569b4150d58)
-
-
+![BATCH 10000 G](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/2bb0e6fe-5ee6-4c12-985e-7faf4016e612)
+![BATCH 10000](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/c3650b12-25e3-453c-990c-199cc2b7b46b)
 
 
 					
 # FOR 1,00,000 TUPLE SIZE:
 
 
-					
-		
-![image](https://github.com/deekshamacharya/hpe-project/assets/136496282/a60cf97a-9c35-49b8-82d3-7c6514f02fe7)
+![BATCH 100000 G](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/aded0024-7d19-487a-84c9-038a7326af40)
 
-
-![b](https://github.com/deekshamacharya/hpe-project/assets/136496282/6a3c09f9-0601-4b5b-8403-fec1e5b5c0c0)
+![BATCH 100000](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/8192a373-dca8-402a-ac36-1398bfba2ccc)
 
 
 
 
 # FOR 10,00,000 TUPLE SIZE:
 
-		
-![image](https://github.com/deekshamacharya/hpe-project/assets/136496282/64254d40-dd26-4d53-a158-75dea95a9c6e)
+	
+![BATCH 1000000](https://github.com/deekshamacharya/HPE-CTY-PROJECT/assets/136496282/4066187b-46b4-49c1-a359-50d0b20b906d)
